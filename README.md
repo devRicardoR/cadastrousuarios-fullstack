@@ -1,7 +1,5 @@
 # Projeto Full Stack Básico – CRUD de Usuários
 
-Projeto Full Stack desenvolvido com React, Node.js, Express e Prisma ORM, que permite criar, listar, atualizar e deletar usuários.
-
 O objetivo é demonstrar habilidades em desenvolvimento web completo, integração entre frontend e backend e boas práticas no consumo e criação de APIs REST.
 
 ---
